@@ -597,7 +597,7 @@ collect-mentions@0.1.1:
   dependencies:
     mentions-regex "2.0.3"
 
-collect-mentions@^1.0.1:
+collect-mentions@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/collect-mentions/-/collect-mentions-1.0.2.tgz#30734fcb33cbf8999cf7fd6d9c3133045f0b4dcc"
   integrity sha512-/jRhzWp5bkZnvgtR+agXT0RvYKBXOl4uG+eKA6ip3tp1x+jRAV36jW2TceKutOeuEPjHKaQ6DJjeh5zvZF0fWQ==
@@ -769,6 +769,11 @@ decompress-response@^3.3.0:
   integrity sha1-gKTdMjdIOEv6JICDYirt7Jgq3/M=
   dependencies:
     mimic-response "^1.0.0"
+
+dedent@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/dedent/-/dedent-0.7.0.tgz#2495ddbaf6eb874abb0e1be9df22d2e5a544326c"
+  integrity sha1-JJXduvbrh0q7Dhvp3yLS5aVEMmw=
 
 deep-extend@^0.6.0:
   version "0.6.0"
@@ -2492,6 +2497,11 @@ mixin-deep@^1.2.0:
     for-in "^1.0.2"
     is-extendable "^1.0.1"
 
+mixin-deep@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/mixin-deep/-/mixin-deep-2.0.0.tgz#9dfd525156720ec6cbee14fcb4b968253ba358ee"
+  integrity sha512-2tAhDtV+OCFCeknyf2cJD5rD+xfvM2ax/RZ3iI1G67Eh6x5UxKJlGDVpmCX27y7WvuXpAkMHQs9ooaxIHIit+A==
+
 mkdirp@^0.5.0, mkdirp@^0.5.1:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-0.5.1.tgz#30057438eac6cf7f8c4767f38648d6697d75c903"
@@ -2850,12 +2860,15 @@ parse-commit-message@1.1.2:
     arrayify "1.0.0"
     collect-mentions "0.1.1"
 
-parse-commit-message@^2.1.4:
-  version "2.1.4"
-  resolved "https://registry.yarnpkg.com/parse-commit-message/-/parse-commit-message-2.1.4.tgz#b9ee527f9fff6b181bcdd7d22363a12159284ec9"
-  integrity sha512-yV1yen81YdfoSG9Ganf0SrwIVs2gSNdOnKwLarGnUUO1Ry8Wd2mHn1sFrtq/tVoAQqgsPHX6zoGVOnOnKyFpjw==
+parse-commit-message@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/parse-commit-message/-/parse-commit-message-3.0.0.tgz#725131c943e0bd942c4b3a9152822fb03df30cc8"
+  integrity sha512-5114UPqb0Me8eQEZWRkY2S85ntyNOBC6d+znuT/skBfuPRFIZyOC608zmAZLdyt32WxILQcYBn7WJBddMZSedw==
   dependencies:
-    collect-mentions "^1.0.1"
+    collect-mentions "^1.0.2"
+    dedent "^0.7.0"
+    esm "^3.0.84"
+    mixin-deep "^2.0.0"
 
 parse-git-log@0.2.1:
   version "0.2.1"
