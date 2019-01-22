@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "esm": "^3.0.84",
-    "parse-commit-message": "^3.2.0"
+    "parse-commit-message": "^4.0.0"
   },
   "devDependencies": {
     "@tunnckocore/config": "^1.0.2",
