@@ -35,7 +35,7 @@
   "main": "index.js",
   "module": "src/index.js",
   "typings": "src/index.d.ts",
-  "version": "0.0.0-semantically-released-c",
+  "version": "0.0.0-semantically-released",
   "repository": "tunnckoCoreLabs/recommended-bump",
   "homepage": "https://github.com/tunnckoCoreLabs/recommended-bump",
   "author": "Charlike Mike Reagent (https://tunnckocore.com)",
