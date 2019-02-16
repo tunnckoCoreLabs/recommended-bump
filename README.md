@@ -1,4 +1,5 @@
 # recommended-bump [![npm version][npmv-img]][npmv-url] [![github release][ghrelease-img]][ghrelease-url] [![License][license-img]][license-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FtunnckoCoreLabs%2Frecommended-bump.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FtunnckoCoreLabs%2Frecommended-bump?ref=badge_shield)
 
 > Calculates recommended bump (next semver version) based on given array of commit messages following Conventional Commits specification
 
@@ -252,3 +253,5 @@ Released under the [Apache-2.0 License][license-url].
 [execa]: https://github.com/sindresorhus/execa
 [new-release]: https://github.com/tunnckoCore/new-release
 [parse-commit-message]: https://github.com/tunnckoCoreLabs/parse-commit-message
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FtunnckoCoreLabs%2Frecommended-bump.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FtunnckoCoreLabs%2Frecommended-bump?ref=badge_large)
