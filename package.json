@@ -20,8 +20,8 @@
     "esm": "^3.2.0"
   },
   "dependencies": {
-    "esm": "^3.2.0",
-    "parse-commit-message": "^4.0.0-rc.1"
+    "esm": "^3.2.25",
+    "parse-commit-message": "^4.0.0-canary.20"
   },
   "devDependencies": {
     "@tunnckocore/config": "^1.0.2",

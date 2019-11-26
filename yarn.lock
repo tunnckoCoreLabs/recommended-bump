@@ -863,6 +863,11 @@ esm@^3.0.84, esm@^3.2.0:
   resolved "https://registry.yarnpkg.com/esm/-/esm-3.2.0.tgz#089011156cf817ccdae38c877cbe03301df04136"
   integrity sha512-yK4IiHmmInOk9q4xbJXdUfPV0ju7GbRCbhtpe5/gH7nRiD6RAb12Ix7zfsqQkDL5WERwzFlq/eT6zTXDWwIk+w==
 
+esm@^3.2.25:
+  version "3.2.25"
+  resolved "https://registry.yarnpkg.com/esm/-/esm-3.2.25.tgz#342c18c29d56157688ba5ce31f8431fbb795cc10"
+  integrity sha512-U1suiZ2oDVWv4zPO56S0NcR5QriEahGtdN2OR6FiOG4WJvcjBVFB0qI4+eKoWFH483PKGuLuu6V8Z4T5g63UVA==
+
 espree@^4.0.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/espree/-/espree-4.1.0.tgz#728d5451e0fd156c04384a7ad89ed51ff54eb25f"
@@ -1884,10 +1889,10 @@ p-try@^1.0.0:
   resolved "https://registry.yarnpkg.com/p-try/-/p-try-1.0.0.tgz#cbc79cdbaf8fd4228e13f621f2b1a237c1b207b3"
   integrity sha1-y8ec26+P1CKOE/Yh8rGiN8GyB7M=
 
-parse-commit-message@^4.0.0-rc.1:
-  version "4.0.0-rc.1"
-  resolved "https://registry.yarnpkg.com/parse-commit-message/-/parse-commit-message-4.0.0-rc.1.tgz#93739261edb56f82ea51c22ed0be9f5d6ee7d35b"
-  integrity sha512-5RGgu3xZBjxlk+wA59JaBpLuxLjfi9e+dT2K10DPp2WpGHsdy3Db1w+sFzhI5oApfpANZ6EkdqW6BAFHvMhQhg==
+parse-commit-message@^4.0.0-canary.20:
+  version "4.0.0-canary.20"
+  resolved "https://registry.yarnpkg.com/parse-commit-message/-/parse-commit-message-4.0.0-canary.20.tgz#e68174602be90d800b14fb14d8979ede03622cd6"
+  integrity sha512-y34PoGKtFs8wlggvsJ2JOeX3BmFebmGl1yO2MY6QiKYV3l0bDlL27CzSsVFMnb1n8MjeaUW7kL71hX/G+NsKQA==
 
 parse-json@^2.2.0:
   version "2.2.0"
