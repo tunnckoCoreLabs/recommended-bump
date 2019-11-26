@@ -1849,10 +1849,10 @@ parent-module@^1.0.0:
   dependencies:
     callsites "^3.0.0"
 
-parse-commit-message@4.0.0-canary.20:
-  version "4.0.0-canary.20"
-  resolved "https://registry.yarnpkg.com/parse-commit-message/-/parse-commit-message-4.0.0-canary.20.tgz#e68174602be90d800b14fb14d8979ede03622cd6"
-  integrity sha512-y34PoGKtFs8wlggvsJ2JOeX3BmFebmGl1yO2MY6QiKYV3l0bDlL27CzSsVFMnb1n8MjeaUW7kL71hX/G+NsKQA==
+parse-commit-message@4.1.3:
+  version "4.1.3"
+  resolved "https://registry.yarnpkg.com/parse-commit-message/-/parse-commit-message-4.1.3.tgz#2f8722da80b3edad7e7b75c2b795873be237fb41"
+  integrity sha512-ml8F9ZzMYkLa/lvq8dBnO7TX2pJoV+JEZhZVLuILoNCnfa8jrvmogvNruvEJoVbNMzus81tvFV09BZhAkOfuEg==
 
 parse-json@^2.2.0:
   version "2.2.0"
